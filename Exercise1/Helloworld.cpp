@@ -6,7 +6,7 @@ int add(int a, int b) {
 	return a + b;
 }
 
-int main() {
+int test() {
 
 	cout << "Hello, World! My name is Jaehee Lim/" << endl;
 	int a, b;

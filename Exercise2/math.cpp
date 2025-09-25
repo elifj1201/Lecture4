@@ -1,5 +1,7 @@
-template <typename T>
-T add(T a, T b) {
+#include "math.h"
+
+
+int add(int a, int b) {
 	return a + b;
 
 }

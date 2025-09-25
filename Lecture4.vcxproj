@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Helloworld.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="math.cpp" />
   </ItemGroup>

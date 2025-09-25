@@ -9,4 +9,5 @@ int main() {
 	std::cout << "Enter Second number" << std::endl;
 	std::cin >> b;
 	std::cout << add(a, b);
+	std::cout << multiply(a, b);
 }

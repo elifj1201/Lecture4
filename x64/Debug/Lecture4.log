@@ -1,2 +1,2 @@
-﻿  main.cpp
-C:\Users\LG\Desktop\YONSEI\2학기\OOP\Lecture4\Lecture4\math.h(3): error C4716: 'add': 값을 반환해야 합니다.
+﻿  math.cpp
+  Lecture4.vcxproj -> C:\Users\LG\Desktop\YONSEI\2학기\OOP\Lecture4\x64\Debug\Lecture4.exe
